@@ -1,0 +1,25 @@
+.mainContainer {
+  margin-top: 15rem;
+}
+
+.buttonContainer {
+  width: 100%;
+  margin-top: 5rem;
+  padding: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn {
+  height: 2rem;
+  margin-left: 20px;
+  width: 8%;
+  border: 3px solid grey;
+  border-radius: 10px;
+  background: rgba(72, 193, 110, 0.2);
+}
+
+.active {
+  background-color: rgb(255, 255, 255);
+}
